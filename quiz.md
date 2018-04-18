@@ -91,4 +91,5 @@ public class Computer {
 It makes our code more reusable and more flexible than when using inheritance. It allows us to use multiple functionality that isn't possible to achieve through inheritance (again, as a class can only extend one other) by using multiple classes implementing a single interface.
 
 9. What happens to the behaviours when the object composed of them is destroyed?
+
 The behaviours are not affected and can still be used independently.
